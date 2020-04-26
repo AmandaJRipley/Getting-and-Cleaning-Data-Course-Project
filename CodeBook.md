@@ -2,9 +2,6 @@
 title: "Codebook"
 author: "Amanda Ripley"
 date: "April 25th, 2020"
-output:
-  html_document:
-    keep_md: yes
 ---
 
 ## Project Description
